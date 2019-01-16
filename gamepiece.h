@@ -1,7 +1,4 @@
-/* Assignment: 3
-Campus: Beer Sheva
-Author: Or Hadad, ID: 308101591
-*/
+
 
 //includes
 #pragma once
